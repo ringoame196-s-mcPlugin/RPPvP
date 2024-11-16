@@ -1,7 +1,7 @@
 package com.github.ringoame196_s_mcPlugin.commands
 
 import com.github.ringoame196_s_mcPlugin.Data
-import com.github.ringoame196_s_mcPlugin.YmlFileManager
+import com.github.ringoame196_s_mcPlugin.managers.YmlFileManager
 import org.bukkit.ChatColor
 import org.bukkit.command.Command
 import org.bukkit.command.CommandExecutor
